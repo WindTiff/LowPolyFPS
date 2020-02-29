@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 25644fdb850987743b9d4d04e6a9b856
+timeCreated: 1457277128
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cargo
+    100004: floe01
+    100006: floe_02
+    100008: floe_03
+    100010: Icebreaker_01.001
+    100012: Icebreaker_02
+    100014: igloo_01
+    100016: penguin
+    100018: penguin01.001
+    100020: Plane.006
+    100022: Plane.011
+    100024: Plane.011_cell
+    100026: Plane.011_cell.001
+    100028: Plane.011_cell.002
+    100030: Plane.011_cell.003
+    100032: Plane.011_cell.004
+    100034: Plane.011_cell.005
+    100036: Plane.011_cell.006
+    100038: Plane.011_cell.007
+    100040: Plane.011_cell.008
+    100042: Plane.011_cell.009
+    100044: Plane.011_cell.010
+    100046: Plane.011_cell.011
+    100048: Plane.028
+    100050: Plane.327
+    100052: polar-bear
+    100054: polar-bear.001
+    100056: snowman
+    400000: //RootNode
+    400002: cargo
+    400004: floe01
+    400006: floe_02
+    400008: floe_03
+    400010: Icebreaker_01.001
+    400012: Icebreaker_02
+    400014: igloo_01
+    400016: penguin
+    400018: penguin01.001
+    400020: Plane.006
+    400022: Plane.011
+    400024: Plane.011_cell
+    400026: Plane.011_cell.001
+    400028: Plane.011_cell.002
+    400030: Plane.011_cell.003
+    400032: Plane.011_cell.004
+    400034: Plane.011_cell.005
+    400036: Plane.011_cell.006
+    400038: Plane.011_cell.007
+    400040: Plane.011_cell.008
+    400042: Plane.011_cell.009
+    400044: Plane.011_cell.010
+    400046: Plane.011_cell.011
+    400048: Plane.028
+    400050: Plane.327
+    400052: polar-bear
+    400054: polar-bear.001
+    400056: snowman
+    2300000: //RootNode
+    2300002: cargo
+    2300004: floe01
+    2300006: floe_02
+    2300008: floe_03
+    2300010: Icebreaker_01.001
+    2300012: Icebreaker_02
+    2300014: igloo_01
+    2300016: penguin
+    2300018: penguin01.001
+    2300020: Plane.006
+    2300022: Plane.011
+    2300024: Plane.011_cell
+    2300026: Plane.011_cell.001
+    2300028: Plane.011_cell.002
+    2300030: Plane.011_cell.003
+    2300032: Plane.011_cell.004
+    2300034: Plane.011_cell.005
+    2300036: Plane.011_cell.006
+    2300038: Plane.011_cell.007
+    2300040: Plane.011_cell.008
+    2300042: Plane.011_cell.009
+    2300044: Plane.011_cell.010
+    2300046: Plane.011_cell.011
+    2300048: Plane.028
+    2300050: Plane.327
+    2300052: polar-bear
+    2300054: polar-bear.001
+    2300056: snowman
+    3300000: //RootNode
+    3300002: cargo
+    3300004: floe01
+    3300006: floe_02
+    3300008: floe_03
+    3300010: Icebreaker_01.001
+    3300012: Icebreaker_02
+    3300014: igloo_01
+    3300016: penguin
+    3300018: penguin01.001
+    3300020: Plane.006
+    3300022: Plane.011
+    3300024: Plane.011_cell
+    3300026: Plane.011_cell.001
+    3300028: Plane.011_cell.002
+    3300030: Plane.011_cell.003
+    3300032: Plane.011_cell.004
+    3300034: Plane.011_cell.005
+    3300036: Plane.011_cell.006
+    3300038: Plane.011_cell.007
+    3300040: Plane.011_cell.008
+    3300042: Plane.011_cell.009
+    3300044: Plane.011_cell.010
+    3300046: Plane.011_cell.011
+    3300048: Plane.028
+    3300050: Plane.327
+    3300052: polar-bear
+    3300054: polar-bear.001
+    3300056: snowman
+    4300000: Cube.471
+    4300002: polar-bear_01
+    4300004: polar-bear.001
+    4300006: penguin01.001
+    4300008: cargo
+    4300010: Icebreaker_01.001
+    4300012: Plane.028
+    4300014: Plane.011
+    4300016: snowman
+    4300018: Plane.327
+    4300020: Plane.011_cell.011
+    4300022: Plane.011_cell.010
+    4300024: Plane.011_cell.009
+    4300026: Plane.011_cell.008
+    4300028: Plane.011_cell.007
+    4300030: Plane.011_cell.006
+    4300032: Plane.011_cell.005
+    4300034: Plane.011_cell.004
+    4300036: Plane.011_cell.003
+    4300038: Plane.011_cell.002
+    4300040: Plane.011_cell.001
+    4300042: Plane.011_cell
+    4300044: floe_03
+    4300046: Icebreaker_02
+    4300048: Plane.006
+    4300050: igloo_01
+    4300052: floe_02
+    4300054: floe01
+    4300056: penguin
+    4300058: polar-bear
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

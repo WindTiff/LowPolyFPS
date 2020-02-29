@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 970741834
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: blocks/style0.block
+      Dependencies: {}
+    Info_1:
+      Name: blocks/style1.block
+      Dependencies: {}
